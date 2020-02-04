@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Prog 3: Rasterization Shell</title>
+    <title>Berzerk</title>
 
     <script type="text/javascript" src="gl-matrix-min.js"></script>
     <script type="text/javascript" src="inputs.js"></script>
